@@ -22,6 +22,8 @@ export const NavBar = () => {
 
   const { displayName, photoURL } = useSelector(state => state.auth)
 
+  const imagen = isDarkMode ? '/src/assets/img/Logo_Login.png' : '/src/assets/img/Logo_Login2.png'
+
   const dispatch = useDispatch()
 
 
@@ -52,7 +54,9 @@ export const NavBar = () => {
       }
     >
       <Toolbar style={{ justifyContent: 'space-between' }}>
-        <Box>Image</Box>
+        <Box>
+          <img src={imagen} loading='lazy' style={{ width: '35%', height: '20%'}} />
+        </Box>
         <Box display="flex" alignItems="center" gap={1}>
           <Grid2 sx={{mr: '100px'}}>
           <Grid2>
