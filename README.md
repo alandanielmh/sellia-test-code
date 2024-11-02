@@ -53,6 +53,14 @@ Start the server
 
 
 ## Image/Examples
+![image](https://github.com/user-attachments/assets/556cfa0f-8b97-4e66-abc2-0ef65b5d3c79)
+
+![image](https://github.com/user-attachments/assets/00461910-60c1-4413-bae2-bca47f0b6f42)
+
+![image](https://github.com/user-attachments/assets/d641ab65-39c0-41d7-92b7-9687048a6f7b)
+
+![image](https://github.com/user-attachments/assets/d0bc325d-62ca-483f-9f64-aa3d7678a7fb)
+
 
 
 ## Documentation
