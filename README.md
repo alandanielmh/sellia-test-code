@@ -61,7 +61,15 @@ Start the server
 
 ![image](https://github.com/user-attachments/assets/d0bc325d-62ca-483f-9f64-aa3d7678a7fb)
 
+![image](https://github.com/user-attachments/assets/cdf68f25-c46a-4db4-805e-e7c6ca3f4673)
 
+![image](https://github.com/user-attachments/assets/91d3f127-db29-48f4-9a3b-651f2bed6e9b)
+
+![image](https://github.com/user-attachments/assets/8b2d8184-4d7b-4917-b8cf-507fcd5b6658)
+
+![image](https://github.com/user-attachments/assets/e3fdb7d2-e705-49f3-b5e2-9cf16e2d75c5)
+
+![image](https://github.com/user-attachments/assets/5457b27c-59d7-420e-99ad-7c0175b60ce1)
 
 ## Documentation
 
